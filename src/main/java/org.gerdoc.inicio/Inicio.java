@@ -26,7 +26,7 @@ public class Inicio {
         boolean flag = true;
         int opcion = 0;
         TipoEjecutable tipoEjecutable = null;
-        String terceraversion="Holiiiii";
+        System.out.println("holiiiiii");
         while( flag )
         {
             Menu.principal2( );
